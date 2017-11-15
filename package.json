@@ -1,0 +1,17 @@
+{
+  "name": "test_app",
+  "version": "0.0.1",
+  "description": "Testing On Lembda",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "aws-serverless-express": "^3.0.2",
+    "claudia-api-builder": "^2.5.1",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "main": "app.js",
+  "author": ""
+}
